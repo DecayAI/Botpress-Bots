@@ -1,4 +1,4 @@
-**Botpress Bots Collection**
+### Botpress Bots Collection
 
 > Overview
 
